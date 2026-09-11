@@ -30,3 +30,5 @@ java -cp target/classes edu.cmu.cs214.roomreserve.ReservationApp
 - Setup: `SETUP.md`
 
 See the Lab 3 handout on the course page for the three milestones you show a TA.
+
+Tools and models used: Claude Code (Claude Opus 5).
